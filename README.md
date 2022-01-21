@@ -7,3 +7,7 @@
 
 # TwitterBoxBot
 The full tool box for twitter users (Telegram Bot)
+
+## config.php
+[line16] const _TOKEN = "--TelegramBotToken--" : Replace with Telegram Bot Token
+
